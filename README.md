@@ -1,1 +1,1 @@
-[# rsschool-cv](https://github.com/Andrei-S-E/rsschool-cv/blob/gh-pages/CV.md)
+(https://github.com/Andrei-S-E/rsschool-cv/blob/gh-pages/CV.md)
